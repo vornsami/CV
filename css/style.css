@@ -27,7 +27,9 @@ td {
 	padding-top: 0.7em;
 	padding-bottom: 0.2em;
 }
-
+.bullet-list {
+	list-style-type: disc;
+}
 
 body {
 	font-family: 'Helvetica', 'Arial', sans-serif;
@@ -38,4 +40,9 @@ body {
 .text-body {
 	line-height: 1.5;
     padding: 0em 1em 1em;
+}
+
+#end{
+	padding: 5em;
+	border-color: #FFFFFF;
 }
